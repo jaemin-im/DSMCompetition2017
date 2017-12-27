@@ -1,3 +1,11 @@
+DSMCompetition2017 by Xsolute Lim
+
+이번에 학교에서 진행했던 공모전에 출품한 작품입니다.
+Tensorflow와 Flask를 이용하여 온라인 상에서 사용할 수 있게 제작하였습니다.
+MNIST Dataset을 이용하여 학습하였습니다.
+
+웹 템플릿인 Photon의 출처는 다음과 같습니다. @ajlkn님에게 감사를 표합니다. 저작권은 LICENSE.txt에 더욱 자세하게 표현되었습니다. :
+
 Photon by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
